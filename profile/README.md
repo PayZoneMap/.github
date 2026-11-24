@@ -10,4 +10,4 @@ company, with a link to the company's own page and the date it was checked.
 The map shows each company's zones county by county, next to how local prices
 compare with the US average.
 
-Live. [payzonemap.com](https://payzonemap.com) · Corrections: hello@payzonemap.com
+Live. [payzonemap.com](https://payzonemap.com) · [The story behind it](https://salesforcegirl.hashnode.dev/zone-a-tier-3-geo-zone-2-which-one-am-i) · Corrections: hello@payzonemap.com
